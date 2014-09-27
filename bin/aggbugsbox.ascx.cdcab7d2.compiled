@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/AggBugsBox.ascx" hash="fffffff27137bc5d" filehash="9acd6ca624d2f1a" flags="110000" assembly="App_Web_jlwhdy0t" type="ASP.aggbugsbox_ascx">
-    <filedeps>
-        <filedep name="/ActivityBox.ascx" />
-        <filedep name="/AggBugsBox.ascx" />
-        <filedep name="/LogDateBar.ascx" />
-    </filedeps>
-</preserve>

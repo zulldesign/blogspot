@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/EditConfig.aspx" hash="fffffff27137bc5d" filehash="5230210269" flags="110000" assembly="App_Web_plnxlwc3" type="ASP.editconfig_aspx">
-    <filedeps>
-        <filedep name="/EditConfig.aspx" />
-    </filedeps>
-</preserve>

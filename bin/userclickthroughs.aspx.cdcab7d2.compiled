@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/UserClickThroughs.aspx" hash="fffffff27137bc5d" filehash="ffffc4922aa4db4d" flags="110000" assembly="App_Web_1onfvqij" type="ASP.userclickthroughs_aspx">
-    <filedeps>
-        <filedep name="/UserClickThroughs.aspx" />
-    </filedeps>
-</preserve>

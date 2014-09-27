@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/CrosspostReferrersBox.ascx" hash="fffffff27137bc5d" filehash="a22cab5713adb221" flags="110000" assembly="App_Web_jlwhdy0t" type="ASP.crosspostreferrersbox_ascx">
-    <filedeps>
-        <filedep name="/ActivityBox.ascx" />
-        <filedep name="/CrosspostReferrersBox.ascx" />
-        <filedep name="/LogDateBar.ascx" />
-    </filedeps>
-</preserve>

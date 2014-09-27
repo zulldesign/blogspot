@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/CommentView.aspx" hash="fffffff27137bc5d" filehash="ffffd33005783508" flags="110000" assembly="App_Web_qcj4xo3x" type="ASP.commentview_aspx">
-    <filedeps>
-        <filedep name="/CommentView.aspx" />
-    </filedeps>
-</preserve>

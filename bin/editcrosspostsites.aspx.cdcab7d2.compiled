@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/EditCrosspostSites.aspx" hash="fffffff27137bc5d" filehash="ffffd950c953e68a" flags="110000" assembly="App_Web_1onfvqij" type="ASP.editcrosspostsites_aspx">
-    <filedeps>
-        <filedep name="/EditCrosspostSites.aspx" />
-    </filedeps>
-</preserve>

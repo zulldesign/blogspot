@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/EditBlogRoll.aspx" hash="fffffff27137bc5d" filehash="1f92ea184390" flags="110000" assembly="App_Web_1onfvqij" type="ASP.editblogroll_aspx">
-    <filedeps>
-        <filedep name="/EditBlogRoll.aspx" />
-    </filedeps>
-</preserve>

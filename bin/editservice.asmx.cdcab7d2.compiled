@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="2" virtualPath="/EditService.asmx" hash="ffffffff95a58838" filehash="fffff9753beb80d3" flags="130000" assembly="newtelligence.DasBlog.Web" type="newtelligence.DasBlog.Web.EditService">
-    <filedeps>
-        <filedep name="/EditService.asmx" />
-    </filedeps>
-</preserve>

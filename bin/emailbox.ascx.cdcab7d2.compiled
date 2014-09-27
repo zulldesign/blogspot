@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/EmailBox.ascx" hash="fffffff27137bc5d" filehash="243df7d0cd16" flags="110000" assembly="App_Web_1onfvqij" type="ASP.emailbox_ascx">
-    <filedeps>
-        <filedep name="/EmailBox.ascx" />
-    </filedeps>
-</preserve>
