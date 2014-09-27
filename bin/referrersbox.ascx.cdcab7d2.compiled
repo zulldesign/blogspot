@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/ReferrersBox.ascx" hash="fffffff27137bc5d" filehash="3b82bd688d6f5ba9" flags="110000" assembly="App_Web_jlwhdy0t" type="ASP.referrersbox_ascx">
+    <filedeps>
+        <filedep name="/ActivityBox.ascx" />
+        <filedep name="/LogDateBar.ascx" />
+        <filedep name="/ReferrersBox.ascx" />
+    </filedeps>
+</preserve>

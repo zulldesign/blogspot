@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Email.aspx" hash="fffffff27137bc5d" filehash="244148914e22" flags="110000" assembly="App_Web_1onfvqij" type="ASP.email_aspx">
+    <filedeps>
+        <filedep name="/Email.aspx" />
+    </filedeps>
+</preserve>
