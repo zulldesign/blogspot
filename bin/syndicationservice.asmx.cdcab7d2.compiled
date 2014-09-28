@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="2" virtualPath="/SyndicationService.asmx" hash="ffffffff95a58838" filehash="ffffcb7a2d7d524d" flags="130000" assembly="newtelligence.DasBlog.Web" type="newtelligence.DasBlog.Web.SyndicationService">
-    <filedeps>
-        <filedep name="/SyndicationService.asmx" />
-    </filedeps>
-</preserve>

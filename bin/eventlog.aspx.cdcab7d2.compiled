@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/Eventlog.aspx" hash="fffffff27137bc5d" filehash="ffffcc345933249f" flags="110000" assembly="App_Web_1onfvqij" type="ASP.eventlog_aspx">
-    <filedeps>
-        <filedep name="/Eventlog.aspx" />
-    </filedeps>
-</preserve>
