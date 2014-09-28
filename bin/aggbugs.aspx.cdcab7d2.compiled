@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/AggBugs.aspx" hash="fffffff27137bc5d" filehash="35ba4adaf734" flags="110000" assembly="App_Web_qcj4xo3x" type="ASP.aggbugs_aspx">
+    <filedeps>
+        <filedep name="/AggBugs.aspx" />
+    </filedeps>
+</preserve>

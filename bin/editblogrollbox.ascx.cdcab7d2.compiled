@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/EditBlogRollBox.ascx" hash="fffffff27137bc5d" filehash="3ce85c6df3e10fa0" flags="110000" assembly="App_Web_we23tgm0" type="ASP.editblogrollbox_ascx">
+    <filedeps>
+        <filedep name="/EditBlogRollBox.ascx" />
+        <filedep name="/EditBlogRollEditItem.ascx" />
+        <filedep name="/EditBlogRollItem.ascx" />
+    </filedeps>
+</preserve>

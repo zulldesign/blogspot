@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/ClickThroughsBox.ascx" hash="fffffff27137bc5d" filehash="c9cc9c09cd30dd1d" flags="110000" assembly="App_Web_jlwhdy0t" type="ASP.clickthroughsbox_ascx">
+    <filedeps>
+        <filedep name="/ActivityBox.ascx" />
+        <filedep name="/ClickThroughsBox.ascx" />
+        <filedep name="/LogDateBar.ascx" />
+    </filedeps>
+</preserve>

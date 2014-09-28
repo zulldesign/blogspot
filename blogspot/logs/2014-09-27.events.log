@@ -1,5 +1,0 @@
-l2	time	2014-09-27T19:29:41	code	32000	message	<span>Application started</span>
-l2	time	2014-09-27T19:29:42	code	1120	message	<span>Report-Mailer Service Started</span>
-l2	time	2014-09-27T20:32:29	code	5001	message	<span>Audit: SecuritySuccess Login with username admin from ::1</span>
-l2	time	2014-09-27T20:32:53	code	100	message	<span>Info EntryAdded:<br/>Entry 'Hi World!!!' added. <a href="http://localhost:11040/PermaLink,guid,fc572732-38eb-4ee3-91c4-78c671a9e82a.aspx">Permalink</a></span>
-l2	time	2014-09-27T20:40:57	code	100	message	<span>Info EntryAdded:<br/>Entry 'hooi' added. <a href="http://localhost:11040/PermaLink,guid,21c29e64-f8a7-4b91-8611-70208867906f.aspx">Permalink</a></span>

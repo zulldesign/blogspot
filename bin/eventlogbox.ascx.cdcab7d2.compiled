@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/EventlogBox.ascx" hash="fffffff27137bc5d" filehash="b10233c3cd4a5129" flags="110000" assembly="App_Web_jlwhdy0t" type="ASP.eventlogbox_ascx">
+    <filedeps>
+        <filedep name="/ActivityBox.ascx" />
+        <filedep name="/EventlogBox.ascx" />
+        <filedep name="/LogDateBar.ascx" />
+    </filedeps>
+</preserve>

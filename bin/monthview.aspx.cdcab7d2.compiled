@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/MonthView.aspx" hash="fffffff27137bc5d" filehash="ffffedf0661f546c" flags="110000" assembly="App_Web_1onfvqij" type="ASP.monthview_aspx">
+    <filedeps>
+        <filedep name="/MonthView.aspx" />
+    </filedeps>
+</preserve>

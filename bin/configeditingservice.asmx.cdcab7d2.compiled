@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/ConfigEditingService.asmx" hash="ffffffff95a58838" filehash="7cb8421773" flags="130000" assembly="newtelligence.DasBlog.Web" type="newtelligence.DasBlog.Web.ConfigEditingService">
+    <filedeps>
+        <filedep name="/ConfigEditingService.asmx" />
+    </filedeps>
+</preserve>
