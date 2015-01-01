@@ -25,7 +25,7 @@ define('DB_USER', 'zumrrboatotompbh');
 define('DB_PASSWORD', 'rB2GEWYMksRVSwdQk43R62fuAgb5uwfwcqrnZGzh6YDvuUrwDdxGSuvywFfyV4rV');
 
 /** MySQL hostname */
-define('DB_HOST', '02904178-ec5b-421c-9b5b-a413016683fd.mysql.sequelizer.com');
+define('DB_HOST', 'http://02904178-ec5b-421c-9b5b-a413016683fd.mysql.sequelizer.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
