@@ -1,0 +1,4 @@
+1. upload all files except "upgrade_from".
+2. run http://your_jcow_network/install.php
+3. done.
+delete install.php
