@@ -1,1 +1,0 @@
-Find your current version in the folder "upgrade_from".
