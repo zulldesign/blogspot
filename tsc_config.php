@@ -5,7 +5,7 @@ $dbuser = "zumrrboatotompbh";   //DB user name
 $dbpwd = "rB2GEWYMksRVSwdQk43R62fuAgb5uwfwcqrnZGzh6YDvuUrwDdxGSuvywFfyV4rV";    //DB user password
 
 $baseurl = "https://blogspot.apphb.com/"; //URL of your site - http://www.yoursitedomain.com/ (Don't forget the trailing slash '/'
-$basepath = ""; //Base path to the root folder of your site - example - /home/somename/public_html/
+$basepath = "/home/blogspot/public_html/"; //Base path to the root folder of your site - example - /home/somename/public_html/
 
 $sitename= "BLOG"; //Give some name to your site
 
