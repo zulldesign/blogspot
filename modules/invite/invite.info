@@ -1,0 +1,4 @@
+name = Invite
+version = 2.0
+type = core
+description = Allow your members to invite friends

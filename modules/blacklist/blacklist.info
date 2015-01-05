@@ -1,0 +1,4 @@
+name = Block/Unblock
+version = 2.0.1
+type = core
+description = Allow user to block others

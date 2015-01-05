@@ -1,0 +1,30 @@
+*** upgrade from 4.x ***
+
+Step.1
+Upload following files&folders(including sub-folders):
+includes/
+files/icons/thumbs_up.png
+files/icons/thumbs_down.png
+files/common_css/style.css
+files/common_css/sharebox_arrow_bg.gif
+files/common_css/sharebox_arrow.png
+js/facebox
+modules/
+upgrade_from/4.x/
+
+
+Step.2
+Excute the following URL on your web browser:
+http://YOUR_JCOW_URL/upgrade_from/4.x/database.php
+(then delete this file from your server)
+
+
+Step.3
+Login as admin. Go to "admin CP" -> "Modules", and click "Update modules".
+
+
+Step.4
+Go to homepage and refresh your web browser.
+
+
+Finished.

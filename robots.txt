@@ -1,0 +1,13 @@
+User-agent: *
+Crawl-delay: 10
+Disallow: /includes/
+Disallow: /my/
+Disallow: /install.php
+Disallow: /admin
+Disallow: /logout
+Disallow: /login
+Disallow: /signup
+Disallow: /index.php?q=admin
+Disallow: /index.php?q=login
+Disallow: /index.php?q=logout
+Disallow: /index.php?q=signup
